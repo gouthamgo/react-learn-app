@@ -1,0 +1,45 @@
+// import React, {Component} from 'react';
+// // importing the component
+
+
+// class App extends Component{
+//   constructor(){
+//     super();
+
+//     this.state ={
+//       // array of objects
+//      monsters: [
+//        {
+//          name: ' Vanessa Raulan',
+//          id: '1'
+//        },
+//        {
+//         name: ' Alex',
+//         id: '2'
+//       },
+//       {
+//         name: ' Luke Gelmi',
+//         id: '3'
+//       }
+
+//      ]
+//     }
+//   }
+//   render(){
+//     return(
+//           <div className="App">
+//            {
+//              this.state.monsters.map(monster => (
+//                <h1 key={monster.id}>{monster.name}</h1>)
+//                )
+//            }
+//           </div>
+//     )
+
+//   }
+// }
+
+
+
+
+// export default App;
